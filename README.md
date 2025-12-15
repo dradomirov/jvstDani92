@@ -21,9 +21,9 @@ Senior Backend Engineer with over 6 years of experience working with technologie
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jvstDani92&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dradomirov&theme=radical)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jvstDani92&theme=radical&no-frame=true&row=1&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dradomirov&theme=radical&no-frame=true&row=1&column=7)
 
 ## 📫 Connect with me
 
@@ -32,4 +32,4 @@ Senior Backend Engineer with over 6 years of experience working with technologie
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/jvstDani92)
 
 ---
-⭐️ From [jvstDani92](https://github.com/jvstDani92)
+⭐️ From [jvstDani92](https://github.com/dradomirov)
